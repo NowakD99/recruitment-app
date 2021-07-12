@@ -1,12 +1,17 @@
 
-git clone https://github.com/NowakD99/recruitment-app.git
+wpisz w konsoli git clone https://github.com/NowakD99/recruitment-app.git
 
-Open recruitment-app in console
+otwórz recruitment-app w konsoli
 
-Write in console 'npm install'
+wpisz w konsoli 'npm install'
 
-Press enter
+naciśnij enter
 
-Write in console 'npm start'
+wpisz w konsoli'npm start'
 
-Press enter
+naciśnij enter
+
+
+Aplikacja pobierze domyślnie 10 użytkowników
+
+Aby przetestować poprawność działania zapisu do LocalStorage należy otwożyć detale, edytować jakieś dane, zapisać, odświeżyć stronę i sprawdzić czy dane się zgadzają
